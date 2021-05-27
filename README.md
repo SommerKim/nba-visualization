@@ -33,6 +33,4 @@ __Rough Breakdown of Tasks:__
 * Make Observations regarding the tendencies we see.
 * Create Presentation and Summary Documents and make the Project accessible.
 
-### Project Website Sketch
-
-![project sketch](Images/project_sketch.png)
+<img width="673" alt="nba_github_screenshot" src="https://user-images.githubusercontent.com/74261427/119831931-bd63b980-becb-11eb-8f57-c9ea65acaad9.PNG">
